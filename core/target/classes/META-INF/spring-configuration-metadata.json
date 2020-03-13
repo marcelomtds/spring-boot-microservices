@@ -1,0 +1,41 @@
+{
+  "groups": [
+    {
+      "name": "jwt.config",
+      "type": "br.com.school.core.property.JwtConfiguration",
+      "sourceType": "br.com.school.core.property.JwtConfiguration"
+    },
+    {
+      "name": "jwt.config.header",
+      "type": "br.com.school.core.property.JwtConfiguration$Header",
+      "sourceType": "br.com.school.core.property.JwtConfiguration"
+    }
+  ],
+  "properties": [
+    {
+      "name": "jwt.config.expiration",
+      "type": "java.lang.Integer",
+      "sourceType": "br.com.school.core.property.JwtConfiguration",
+      "defaultValue": 3600
+    },
+    {
+      "name": "jwt.config.login-url",
+      "type": "java.lang.String",
+      "sourceType": "br.com.school.core.property.JwtConfiguration",
+      "defaultValue": "\/login\/**"
+    },
+    {
+      "name": "jwt.config.private-key",
+      "type": "java.lang.String",
+      "sourceType": "br.com.school.core.property.JwtConfiguration",
+      "defaultValue": "9G8LglHPGFhMfCM3gTQvUGFYxOZlthPT"
+    },
+    {
+      "name": "jwt.config.type",
+      "type": "java.lang.String",
+      "sourceType": "br.com.school.core.property.JwtConfiguration",
+      "defaultValue": "encrypted"
+    }
+  ],
+  "hints": []
+}

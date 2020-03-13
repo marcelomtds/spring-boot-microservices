@@ -1,0 +1,10 @@
+br\com\school\core\model\AbstractEntity.class
+br\com\school\core\repository\CourseRepository.class
+br\com\school\core\property\JwtConfiguration$Header.class
+br\com\school\core\model\ApplicationUser$ApplicationUserBuilder.class
+br\com\school\core\model\Course$CourseBuilder.class
+br\com\school\core\repository\ApplicationUserRepository.class
+br\com\school\core\model\ApplicationUser.class
+br\com\school\core\property\JwtConfiguration.class
+META-INF\spring-configuration-metadata.json
+br\com\school\core\model\Course.class

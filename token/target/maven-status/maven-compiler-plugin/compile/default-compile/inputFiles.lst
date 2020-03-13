@@ -1,0 +1,5 @@
+C:\projetos\spring-boot-microservices\token\src\main\java\br\com\school\security\token\creator\TokenCreator.java
+C:\projetos\spring-boot-microservices\token\src\main\java\br\com\school\security\util\SecurityContextUtil.java
+C:\projetos\spring-boot-microservices\token\src\main\java\br\com\school\security\config\SecurityTokenConfig.java
+C:\projetos\spring-boot-microservices\token\src\main\java\br\com\school\security\filter\JwtTokenAuthorizationFilter.java
+C:\projetos\spring-boot-microservices\token\src\main\java\br\com\school\security\token\converter\TokenConverter.java
